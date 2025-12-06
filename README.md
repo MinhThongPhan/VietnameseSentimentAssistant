@@ -1,8 +1,8 @@
-#Vietnamese Sentiment Assistant
+# Vietnamese Sentiment Assistant
 
-##Report
+## Report
 
-##Cài đặt
+## Cài đặt
 Clone
 ```
 git clone https://github.com/MinhThongPhan/VietnameseSentimentAssistant.git
